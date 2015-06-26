@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Folder\shell\Clean Solution\command]
+@="\"C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\powershell.exe\" -file \"C:\\Users\\Tim\\Documents\\Visual Studio\\CleanSolution\\CleanSolution.ps1\" -target \"%1\""
+
